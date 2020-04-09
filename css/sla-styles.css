@@ -50,3 +50,7 @@
     display: inline-block;
     padding-top: 20px;
 }
+
+#statement {
+    margin-bottom: 0px;
+}
